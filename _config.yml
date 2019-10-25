@@ -33,6 +33,7 @@ github_username:  cpkm
 theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
+  - jekyll-postfiles
 
 # Theme settings
 collections: [sections]
