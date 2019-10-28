@@ -111,10 +111,10 @@ author:
   avatar           : "https://www.gravatar.com/avatar/b53cde6200df2d4311523e6b28025df5?"
   bio              : "PhD Physics. Scientist and laser mechanic."
   location         : "Guelph, ON"
-  email            :
+  email            : "contact@kylemanchee.com"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MRK1vBMAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -127,14 +127,15 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kyle-manchee"
+  orcid            : "https://orcid.org/0000-0003-0094-0265"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/8185591/cpkm"
   steam            :
+  strava           : "https://www.strava.com/athletes/14498975"
   tumblr           :
   twitter          : 
   vine             :
