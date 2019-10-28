@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Flask deployment on Heroku"
 date:   2019-05-31 13:27:01 -0400
 categories: code
 ---
-
-# Flask app deployment on Heroku
 
 You've developed a Flask app locally. It runs, and you are at the point that you'd like to publish to the web. Or get the ball rolling, at least. It is time for deployment. Unlike static a webpage, a Flask app requires significant computing power in order to run: Python, and all the app's package bependencies, must be available on the host server, and, rather importantly, dedicating processing resources (CPU) and hard disk storage may be required. If your app utilizes a database, this must be stored on the host server and be readily accessible at all times.
 

@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "The one true triathlon distance"
 date:   2019-08-14 20:55:32 -0400
 categories: [code, triathlon]
 tags: [ironman, triathlon, python, jupyter]
 ---
-# Ironman triathlon analysis
 
 I have created a web-scraping tool to pull athlete result data from Ironman triathlon events. Using some of this data I'd like to do some simple analysis on the relative distances and finishing times of the three disciplines in triathlon: swim, bike run. In the end, I would like to come up with a 'natural' distance for each disciplines, where each is equally weighted in the event.
 
