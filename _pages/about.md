@@ -1,6 +1,6 @@
 ---
-permalink: /aboot/
-title: "Aboot"
+permalink: /about/
+title: "About"
 excerpt: "Physicist and Laser Mechanic"
 layout: single
 last_modified_at: 2019-10-27T09:10:43-04:00
