@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Legendary Train Blog"
+title                    : "Kyle Manchee"
 title_separator          : "-"
 subtitle                 : Science, sports, and sage advise
 name                     : "C.P. Kyle Manchee"
@@ -25,14 +25,14 @@ url                      : "https://kylemanchee.com" # the base hostname & proto
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : cpkm/legendary-train-blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : icons/mstile-144x144.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : legendary-train-blog
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
