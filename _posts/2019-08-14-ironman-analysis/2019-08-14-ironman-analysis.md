@@ -2,6 +2,8 @@
 layout: single
 title:  "The one true triathlon distance"
 date:   2019-08-14 20:55:32 -0400
+toc: true
+comments: true
 categories: [code, triathlon]
 tags: [ironman, triathlon, python, jupyter]
 ---

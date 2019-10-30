@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: 
+layout: single
+title: Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,11 +10,13 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include toc title="Curriculum Vitae" %}
 
 ## Education
 * Ph.D in Physics, University of Toronto, 2019
 * M.S. in Condensed Matter Physics, University of Alberta, 2011
 * B.S. in Chemical Physics, University of Guelph, 2009
+
 
 ---
 ## Work experience
@@ -68,6 +70,7 @@ intro:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 ---  
 ## Talks
