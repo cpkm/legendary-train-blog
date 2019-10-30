@@ -11,13 +11,13 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-# Education
+## Education
 * Ph.D in Physics, University of Toronto, 2019
 * M.S. in Condensed Matter Physics, University of Alberta, 2011
 * B.S. in Chemical Physics, University of Guelph, 2009
 
 ---
-# Work experience
+## Work experience
 * Spring 2019: Sessional Lecturer
   * University of Guelph
   * Supervisor: Professor Joanne O'Meara
@@ -36,7 +36,7 @@ intro:
 
 
 ---  
-# Skills
+## Skills
 * Optical system design
   * gaussian beam
   * dynamics
@@ -64,25 +64,25 @@ intro:
 
 
 ---
-# Publications
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ---  
-# Talks
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 ---  
-# Teaching
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ---  
-# Service and leadership
+## Service and leadership
 
 * CSC Ultrafast Science Satellite meeting (Toronto ON, 2017), organizer
 * U of T Physics Mentorship program, mentor 
