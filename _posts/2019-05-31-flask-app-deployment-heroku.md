@@ -101,6 +101,9 @@ heroku pg:push newdb DATABASE_URL <your-app-name>
 ```
 That's it - you're set. Note that ```DATABASE_URL``` is the environment variable pointing to your Heroku postgres database. Heroku will interpret this variable properly, so you don't need to copy/paste an actual url.
 
+<p>{{ jekyll.environment }} {{ site.comments.provider }} {{ page.comments }}</p>
+{% include comments.html %}
+
 
 
 
