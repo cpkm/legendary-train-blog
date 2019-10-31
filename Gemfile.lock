@@ -31,6 +31,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-data (1.1.0)
       jekyll (>= 3.3, < 5.0.0)
     jekyll-feed (0.12.1)
@@ -95,6 +97,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
+  jekyll-archives
   jekyll-data
   jekyll-feed (~> 0.12)
   jekyll-postfiles

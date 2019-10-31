@@ -266,6 +266,7 @@ plugins:
   - jekyll-data
   - jekyll-postfiles
   - jekyll-redirect-from
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -277,6 +278,7 @@ whitelist:
   - jekyll-data
   - jekyll-postfiles
   - jekyll-redirect-from
+  - jekyll-archives
 
 
 # Archives

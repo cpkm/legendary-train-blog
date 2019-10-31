@@ -36,7 +36,14 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p> {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">
+    {% if post.venue %}{{ post.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% endif %}<br>
+    {% if post.citation %}
+    <small>{{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}
+    </small>
+    {% endif %}
+    </p>
     </li>
  </article>
 </div>
