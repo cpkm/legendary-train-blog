@@ -41,8 +41,8 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.date %}<p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>{% endif %}
+    {% if post.agency %}<p class="archive__item-excerpt" itemprop="description">{{post.type}} - <em>{{ post.agency }}</em>,  {{post.location}} </p>{% endif %}
     </li>
   </article>
 </div>

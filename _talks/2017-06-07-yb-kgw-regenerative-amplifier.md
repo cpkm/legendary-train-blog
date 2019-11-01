@@ -1,8 +1,9 @@
 ---
-title: "Yb:KGW Regenerative Amplifier for Femtosecond CPA Laser System at ​1μm"
+title: "Photonics North 2017 - Yb:KGW Regen"
 collection: talks
 type: "Talk"
-venue: "Photonics North 2017"
+talk_title: "Yb:KGW Regenerative Amplifier for Femtosecond CPA Laser System at ​1μm"
+venue: "Photonics North"
 date: 2017-06-07
 location: "Ottawa, Ontario"
 ---

@@ -1,7 +1,8 @@
 ---
-title: "Refractometric sensing in silica microcapillaries with nanocrystal-embedded films"
+title: "AQNW 2011 - Refractometric Sensing"
 collection: talks
-type: "Talk"
+type: "Presentation"
+talk_title: "Refractometric sensing in silica microcapillaries with nanocrystal-embedded films"
 venue: "Alberta Quantum-Nano Workshop​"
 date: 2011-07-01
 location: "Red Deer, Alberta"

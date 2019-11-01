@@ -79,31 +79,34 @@ intro:
 
 ---
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
 ---  
 ## Talks
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 
 ---  
 ## Teaching
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
 ---
 ## Awards
-* 2014-2017: **NSERC - Alexander Graham Bell Canada Graduate Scholarship​ (CGS-D)**, *Natural Sciences and Engineering Research Council of Canada*
-* 2011: **Ivy A Thomson and William A Thomson Graduate Scholarship**, *University of Alberta*
-* 2009: **NSERC - Alexander Graham Bell Canada Graduate Scholarship​ (CGS-M)**, *Natural Sciences and Engineering Research Council of Canada*
-* 2009: **J.B. Reynolds Graduation Medal in Physics**, *University of Guelph*
+  <ul>
+  {% for post in site.awards reversed %}
+    {% if post.major %}
+    {% include archive-single-award-cv.html %}
+    {% endif %}
+  {% endfor %}
+  </ul>
 
 ---  
 ## Service and leadership

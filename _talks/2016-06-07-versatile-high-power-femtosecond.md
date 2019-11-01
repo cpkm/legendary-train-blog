@@ -1,8 +1,9 @@
 ---
-title: "Versatile, high-power femtosecond laser source at 1um"
+title: "CLEO 2016 - 1um Laser Source"
 collection: talks
-type: "Talk"
+type: "Presentation"
 venue: "CLEO 2016"
+talk_title: "Versatile, high-power femtosecond laser source at 1um"
 date: 2016-06-07
 location: "San Jose, California"
 ---

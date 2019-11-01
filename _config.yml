@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : icons/mstile-144x144.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 180
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -332,6 +332,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -389,3 +392,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: award
+      author_profile: true
+      share: false
+      comments: false
+      major: false
+      read_time: false

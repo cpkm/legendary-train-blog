@@ -1,7 +1,8 @@
 ---
-title: "Theory and demonstration of fluorescence-based refractometric sensing in glass micro-capillaries with a silicon nanocrystal-embedded film"
+title: "ICTON 2011 - Refractometric Sensing with FCMs"
 collection: talks
 type: "Talk"
+talk_title: "Theory and demonstration of fluorescence-based refractometric sensing in glass micro-capillaries with a silicon nanocrystal-embedded film"
 date: 2011-08-01
 venue: "13th International Conference on Transparent Optical Networks"
 location: "Stockholm, Sweeden"
