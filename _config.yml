@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title                    : "Kyle Manchee"
 title_separator          : "-"
-subtitle                 : Science, sports, and stardust
+subtitle                 : Science and stuff
 name                     : "C.P. Kyle Manchee"
 description              : "Scientist and laser mechanic"
 url                      : "https://kylemanchee.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
