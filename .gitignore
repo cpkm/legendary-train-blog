@@ -4,5 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-_drafts/*.jpg
-_drafts/*.jpeg
+_drafts/**/*.jpg
+_drafts/**/.jpeg
