@@ -6,9 +6,10 @@ toc: true
 comments: true
 categories: [code, triathlon]
 tags: [ironman, triathlon, python, jupyter]
+excerpt_separator: <!--more-->
 ---
 
-I have created a web-scraping tool to pull athlete result data from Ironman triathlon events. Using some of this data I'd like to do some simple analysis on the relative distances and finishing times of the three disciplines in triathlon: swim, bike run. In the end, I would like to come up with a 'natural' distance for each disciplines, where each is equally weighted in the event.
+I have created a web-scraping tool to pull athlete result data from Ironman triathlon events. Using some of this data I'd like to do some simple analysis on the relative distances and finishing times of the three disciplines in triathlon: swim, bike run.<!--more--> In the end, I would like to come up with a 'natural' distance for each disciplines, where each is equally weighted in the event.
 
 ## A brief look at finishing times
 

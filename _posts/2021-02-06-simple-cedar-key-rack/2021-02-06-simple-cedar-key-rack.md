@@ -6,15 +6,20 @@ toc: false
 comments: true
 categories: [woodworking]
 tags: [woodworking, home improvement]
+excerpt_separator: <!--more-->
 ---
 
-<figure class="align-center">
+This was a quick and simple project to add a key rack by our main entrance.
+<!--more-->
+
+<figure class="align-left">
         <a href="complete-keys.jpeg"><img src="complete-keys-crop.jpeg" alt="complete-keys"></a>
+            <figcaption>Finished key rack</figcaption>
 </figure>
 
-This was a quick and simple project to add a key rack by our main entrance. There's not a lot of space at our side door (our most heavily used door) and no place to put even a small key rack. There is however a 6" beam directly beside the entrance. I thought a small vertical key rack could fit here nicely. 
+There's not a lot of space at our side door (our most heavily used door) and no place to put even a small key rack. There is however a 6" beam directly beside the entrance. I thought a small vertical key rack could fit here nicely. 
 
-The rack is made from some scrap cedar I had lying around. I finished it with some water based varathane. The hooks are simple cup hooks. The hole process could be summazied by: 1. find piece of wood, 2. screw hooks said wood. But why not, let go into excessive detail.
+The rack is made from some scrap cedar I had lying around. I finished it with some water based varathane. The hooks are simple cup hooks. The hole process could be summarzied by: 1. find piece of wood, 2. screw hooks said wood. But why not, let go into excessive detail.
 
 <figure class="align-right">
     <a href="starting-scrap.jpeg"><img src="starting-scrap-200.jpeg" alt="starting-scrap"></a>

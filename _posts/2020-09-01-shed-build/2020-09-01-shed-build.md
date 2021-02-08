@@ -7,11 +7,14 @@ comments: true
 categories: [woodworking, home improvement]
 tags: [woodworking, shed, backyard, home improvement]
 classes: wide
+excerpt_separator: <!--more-->
 ---
+
+This spring I built an open-faced shed in our yard, primarily as a convenient shelter to store out bikes.
+<!--more-->
 
 ## Motivation
 
-This spring I built an open-faced shed in our yard, primarily as a convenient shelter to store out bikes.
 <figure class="half">
     <a href="starting-location.jpeg"><img src="starting-location-800x600.jpeg" alt="Starting Location"></a>
     <a href="phase1-complete-front.jpeg"><img src="phase1-complete-front-800x600.jpeg" alt="phase1-complete-front"></a>

@@ -3,9 +3,10 @@ layout: single
 title:  "Flask deployment on Heroku"
 date:   2019-05-31 13:27:01 -0400
 categories: code
+excerpt_separator: <!--more-->
 ---
 
-You've developed a Flask app locally. It runs, and you are at the point that you'd like to publish to the web. Or get the ball rolling, at least. It is time for deployment. Unlike static a webpage, a Flask app requires significant computing power in order to run: Python, and all the app's package bependencies, must be available on the host server, and, rather importantly, dedicating processing resources (CPU) and hard disk storage may be required. If your app utilizes a database, this must be stored on the host server and be readily accessible at all times.
+You've developed a Flask app locally. It runs, and you are at the point that you'd like to publish to the web. Or get the ball rolling, at least. It is time for deployment. <!--more-->Unlike static a webpage, a Flask app requires significant computing power in order to run: Python, and all the app's package bependencies, must be available on the host server, and, rather importantly, dedicating processing resources (CPU) and hard disk storage may be required. If your app utilizes a database, this must be stored on the host server and be readily accessible at all times.
 
 If you have the required experience, you may opt to run your own Linux server to host your app. While not particulary difficult, this option does require a decent amount of background knowledge and manual maintenance. Fortunately, there is a better way. Several third-party cloud hosting companies now offer app hosting services, typically branded as Platform as a Service (PaaS). These services offer dedicated storage and computing resources specifically for app deployment. Many also offer manageed database solutions and a variety of other cloud-based services. Popular PaaS clients include Amazon Web Services (AWS), Google Cloud Services (GCS), and Heroku. The offerings and pricing scheme from each provider varies slight, but most offer a free (or nearly-free) option for low-use or hobby-level web applications. 
 
